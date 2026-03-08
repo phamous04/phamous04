@@ -1,4 +1,5 @@
 # 💫 About Me:
+## Hi 👋 I'm Tin
 🎓 Computer Engineering student at Concordia University  <br>💻 Interested in Embedded System Design, Robotics, and Software Development  <br>⚙️ I enjoy building systems that combine hardware and software to solve real-world problems<br>💡 I enjoy building practical projects that interact with the physical world<br>📚 Always learning new technologies in software and hardware development
 
 
